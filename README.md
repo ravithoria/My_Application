@@ -1,2 +1,2 @@
-# My_Application
+# My Application
 First test project to push on github
