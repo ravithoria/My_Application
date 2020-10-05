@@ -8,7 +8,7 @@ import android.widget.ImageView;
 public class MainActivity extends AppCompatActivity {
 
     private String strABC = "ABC";
-    private int xyz = 1;
+    //private int xyz = 1;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
